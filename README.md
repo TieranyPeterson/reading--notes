@@ -5,3 +5,5 @@
 A friend of mine told me about his career as a software developer, which intrigued me.
 I was nervous at first but i later signed myself up for coding classes at Code Crew.
 ***And the rest was history***
+
+[My Growth Mindset Notes] (https://tieranypeterson.github.io/reading--notes/growthmindset)
