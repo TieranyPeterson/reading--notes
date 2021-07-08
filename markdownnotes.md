@@ -3,10 +3,10 @@ What is Markdown? Markdown is a way to style text on the web , also Markdown is 
 What can you do with Markdown? With Markdown you can format words,add images,links,and also lists.
 
 Heading 
-
-# The largest heading
-## The second largest heading
-###### The smallest heading
+it can go from one to six
+(#) The largest heading
+(## )The second largest heading
+(######)The smallest heading
 
 Styling
 
@@ -21,7 +21,7 @@ All bold and italic	*** ***
 Quoting Text >
 
 Links
-[ALT text](link)
+[ALT text]   (link)
 
 List
 
