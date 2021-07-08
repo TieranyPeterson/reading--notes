@@ -12,8 +12,6 @@ Styling
 
 Bold	** ** or __ __
 
-Bold	** ** or __ __
-
 Italic	* * or _ _	
 
 Strikethrough	~~ ~~
