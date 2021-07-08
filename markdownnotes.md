@@ -11,11 +11,15 @@ it can go from one to six
 Styling
 
 Bold	** ** or __ __
-Style	Syntax	Keyboard shortcut	Example	Output
-Bold	** ** or __ __	
+
+Bold	** ** or __ __
+
 Italic	* * or _ _	
-Strikethrough	~~ ~~	
-Bold and nested italic	** ** and _ _		
+
+Strikethrough	~~ ~~
+
+Bold and nested italic	** ** and _ _	
+
 All bold and italic	*** ***		
 
 Quoting Text >
