@@ -1,4 +1,4 @@
-What is a Text editor? 
+**What is a Text editor?** 
 [TextEditor](https://codefellows.github.io/code-102-guide/curriculum/class-02/Choosing-A-Text-Editor--The-Older-Coder.pdf)
 A text editor is a piece of software that you download and install on your computer, or you access online through your web browser, that 
 allows you to write and manage text, especially the text that you write
@@ -8,16 +8,17 @@ The text editor has to be one of the most important tools you can use as an aspi
 
 Choosing a text editor is a personal choice, because most of them are very similar while others might have aditional features.
 
-What features should you look for in a text editor?
-1.) code completion-Code completion allows you to start typing, and the code completionfeature will display possible suggestions based on what you originally typed. 
+***What features should you look for in a text editor?***
+
+**1.)code completion-** Code completion allows you to start typing, and the code completionfeature will display possible suggestions based on what you originally typed. 
 (This saves you time by providing a choice, rather than allowingyou to finish typing and possibly encounter typos,some also include closing tag.)
 
-2.) syntax highlighting-Syntax highlighting is a feature that takes the text you type, and makes it more noticeable by colorizing the text.Syntax highlighting makes it
+**2.) syntax highlighting-**Syntax highlighting is a feature that takes the text you type, and makes it more noticeable by colorizing the text.Syntax highlighting makes it
 easier when you’re looking for an error and you can’t find it. As well as making your text easier to read
 
-3.)variety of themes (to reduce eye strain and fatigue)-Usually, web developers use a dark background and brightly colored text. This combination seems to be easier on the eyes
+**3.)variety of themes**(to reduce eye strain and fatigue)-Usually, web developers use a dark background and brightly colored text. This combination seems to be easier on the eyes
 
-4.) the ability to choose from a healthy selection of extensions available when you need them-You want a text editor that can grow with you as your
+**4.) the ability to choose from a healthy selection of extensions available when you need them-** You want a text editor that can grow with you as your
 needs grow. This comes in the form of extensions, and extensions will ensure that you have the ability to add functionality as you need it
 
 Every computer will come with its own text editor 
