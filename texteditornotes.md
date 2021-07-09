@@ -13,7 +13,7 @@ Choosing a text editor is a personal choice, because most of them are very simil
 **1.)code completion-** Code completion allows you to start typing, and the code completionfeature will display possible suggestions based on what you originally typed. 
 (This saves you time by providing a choice, rather than allowingyou to finish typing and possibly encounter typos,some also include closing tag.)
 
-**2.) syntax highlighting-**Syntax highlighting is a feature that takes the text you type, and makes it more noticeable by colorizing the text.Syntax highlighting makes it
+**2.) syntax highlighting-** Syntax highlighting is a feature that takes the text you type, and makes it more noticeable by colorizing the text.Syntax highlighting makes it
 easier when you’re looking for an error and you can’t find it. As well as making your text easier to read
 
 **3.)variety of themes**(to reduce eye strain and fatigue)-Usually, web developers use a dark background and brightly colored text. This combination seems to be easier on the eyes
