@@ -12,12 +12,12 @@
  Git is a DVCS that stores data in a file system made up of snapshots.
  Each time you save a changed version of your project called commit. Git creates a *snapshot* of the file and stores a reference to it.
  
- **Files in Git can reside in three main states: 
+ **Files in Git can reside in three main states:*
  -committed Data is securely stored in a local database
  -modified  File has been changed but not committed to the database
  -staged Flagged a file’s changed version to be committed in the next snapshot
  
- **Setting up a Git Repository
+ **Setting up a Git Repository**
  To import an existing project or directory into Git
  -$ cd test (cd = change directory)
  -$ git init
@@ -31,6 +31,7 @@
  You can create a copy of an existing Git repository from a particular server by using the clone command with a repository’s URL:
  - $ git clone (https://github.com/test)
 
-To clone a repository into a directory with another name (of your choosing) use this command format
--
+**To clone a repository into a directory with another name (of your choosing) use this command format**
+-$ git clone https://github.com/test mydirectory *(The command above makes a copy of the target repository in a directory named “mydirectory.”)*
+
  
