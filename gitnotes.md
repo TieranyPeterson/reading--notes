@@ -1,4 +1,4 @@
-# Git Notes
+# Git Notes [git notes](https://blog.udemy.com/git-tutorial-a-comprehensive-guide/)
  
  **Version Control** is a system that allows you to revisit various versions of a file or set of files by recording changes.
  By using a Version Control System (VCS), mistakes with files can easily be rectified.
