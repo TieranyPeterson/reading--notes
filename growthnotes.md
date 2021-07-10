@@ -7,7 +7,3 @@ I was nervous at first but i later signed myself up for coding classes at Code C
 ***And the rest was history***
 
 [My Growth Mindset Notes](https://tieranypeterson.github.io/reading--notes/growthmindset)
-### Reading Notes
-[markdownnotes](markdownnotes)
-[growthmindset](growthmindset)
-[git](gitnotes)
