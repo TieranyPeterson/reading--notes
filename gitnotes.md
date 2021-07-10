@@ -29,9 +29,22 @@
 
 **Cloning**
  You can create a copy of an existing Git repository from a particular server by using the clone command with a repository’s URL:
- - $ git clone (https://github.com/test)
+ - $ git clone [[(https://github.com/test]]
 
 **To clone a repository into a directory with another name (of your choosing) use this command format**
--$ git clone https://github.com/test mydirectory *(The command above makes a copy of the target repository in a directory named “mydirectory.”)*
+-[[$ git clone https://github.com/test mydirectory]] *(The command above makes a copy of the target repository in a directory named “mydirectory.”)*
 
+ **Seeing your Repositories**
  
+By using git remote -v, you can view all the remote URLs next to their corresponding short names.
+
+$ cd example
+
+$ git remote -v
+
+remote1 https://github.com/remote1/example (fetch)
+
+remote1 https://github.com/remote1/example (push)See Latest Commits
+
+
+
