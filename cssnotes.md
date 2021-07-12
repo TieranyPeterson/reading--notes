@@ -1,4 +1,4 @@
-#CSS Notes
+# CSS Notes
 
 **What is Css**
 -(Cascading Style Sheets)CSS is a language for specifying how documents are presented to users,how they are styled,and laid out.
