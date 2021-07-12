@@ -38,21 +38,31 @@ h1 {
 </head>```
 
 **Inline Css**
+
 To use inline styles, add the style attribute to the relevant element. The style attribute can contain any CSS property.
 **EXAMPLE**
 <body>
 
-```<h1 style="color:blue;text-align:center;">This is a heading</h1>
-<p style="color:red;">This is a paragraph.</p>```
+```<h1 style="color:blue;text-align:center;">This is a heading</h1>```
+```git <p style="color:red;">This is a paragraph.</p>```
+
 
 **CSS Colors**
+
 Colors in CSS can be specified by the following methods:
 
 *Hexadecimal colors
+
 *Hexadecimal colors with transparency
+
 *RGB colors
+
 *RGBA colors
+
 *HSLa colors
+
 *HSLA colors
+
 *Predefined/Cross-browser color names 
+
 *With the currentcolor keyword
