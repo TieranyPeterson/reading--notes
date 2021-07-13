@@ -12,3 +12,4 @@ I was nervous at first but i later signed myself up for coding classes at Code C
 [growthmindset](growthmindset)
 [git](gitnotes)
 [wireframe](wireframe)
+[javascript](javascriptnotes)
